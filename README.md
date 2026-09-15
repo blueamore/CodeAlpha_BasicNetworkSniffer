@@ -54,4 +54,4 @@ Each captured packet is numbered and the total number of captured packets is dis
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/CodeAlpha_BasicNetworkSniffer.git
+git clone https://github.com/blueamore/CodeAlpha_BasicNetworkSniffer.git
